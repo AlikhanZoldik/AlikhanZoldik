@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @fevurli
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c++ 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm **@fevurli**!
 
-<!---
-AlikhanZoldik/AlikhanZoldik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a student at **Astana IT University (AITU)**.
+
+💻 I'm passionate about programming, software development and building useful projects.
+
+👀 **Interests:** Backend Development, Artificial Intelligence, Startups and Technology.
+
+🌱 **Currently learning:** C++, Python, FastAPI and SQL.
+
+🚀 **Working on:** Personal projects and exploring new technologies.
+
+💞️ **Looking to collaborate on:** Open-source projects, startups and interesting ideas.
+
+📫 **Contact me:** [Telegram](https://t.me/fevurli)
+
+---
+
+**"Code. Learn. Build. Repeat."**
